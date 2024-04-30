@@ -40,3 +40,7 @@ nav a:hover{
     color:fondo2;   
 }
 
+.menu{
+    display: none; /* Por defecto, el ícono del menú hamburguesa está oculto */
+}
+

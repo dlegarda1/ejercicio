@@ -2,9 +2,10 @@ import React from 'react';
 
 function Acerca() {
     return (
-        <div>
-            <h1>Acerca</h1>
+        <div className="contenedor">
+            <h1 className="titulo">Acerca</h1>
             <p>lorem</p>
+            <img src='/jose.jpg' alt="imagen"/>
         </div>
     );
 }

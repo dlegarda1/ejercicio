@@ -37,3 +37,11 @@
   }
 }
 
+.titulo{
+  font-size: 10rem;
+  margin-bottom: 1rem;
+}
+
+.contenedor{
+  background-color: burlywood;
+}
