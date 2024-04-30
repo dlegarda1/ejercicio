@@ -8,7 +8,7 @@ function Estructura() {
         <div>
             <Barra />
             <main>
-                <div>
+                <div className='contenedorPrincipal'>
                     <Outlet />
                 </div>
             </main>

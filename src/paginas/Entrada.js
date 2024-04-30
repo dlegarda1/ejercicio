@@ -1,11 +1,12 @@
 import React from 'react';
 
-function Acerca() {
+function Entrada(){
     return (
         <div>
-            <h1>Acerca</h1>
+            <h1>Entrada</h1>
             <p>lorem</p>
         </div>
     );
 }
-export default Acerca;
+
+export default Entrada;
