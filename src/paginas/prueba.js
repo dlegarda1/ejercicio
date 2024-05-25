@@ -1,3 +1,12 @@
 import React from "react";
 
-function 
+function prueba() {
+    return (
+        <div>
+           Esto es una prueba.
+        </div>
+    )
+}
+
+
+export default prueba;
